@@ -1,8 +1,10 @@
 {
-  "name": "info_sec",
-  "version": "0.1.0",
+  "name": "Z3r0d4y",
+  "version": "1.0.0",
+  "homepage" : "https://z3r0d4y.club/",
   "private": true,
   "dependencies": {
+    "-": "^0.0.1",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.10.9",
@@ -10,6 +12,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.6.0",
@@ -17,11 +20,14 @@
     "react-router-dom": "^6.4.3",
     "react-scripts": "5.0.1",
     "read-more-react": "^1.0.10",
+    "save-dev": "^0.0.1-security",
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predepoly": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
