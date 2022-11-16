@@ -1,5 +1,5 @@
 import React from 'react';
-import "../Styles/Aboutcon.css";
+import "../../Styles/Aboutcon.css"
 
 function Aboutcon() {
   return (

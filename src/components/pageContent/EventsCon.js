@@ -1,5 +1,5 @@
 import React from 'react';
-import "../Styles/EventsCon.css";
+import "../../Styles/EventsCon.css";
 
 function EventsCon() {
   return (

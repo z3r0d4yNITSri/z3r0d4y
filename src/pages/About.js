@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import Navbar from '../components/Nav/Navbar';
-import Aboutcon from '../components/Aboutcon';
+import Aboutcon from '../components/pageContent/Aboutcon';
 import Sidebar from '../components/Nav/Sidebar';
 import Footer from '../components/Footer';
 

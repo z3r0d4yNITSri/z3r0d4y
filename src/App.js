@@ -1,9 +1,9 @@
 import "./App.css";
 import About from "./pages/About";
 import Events from "./pages/Events";
-import Resources from "./components/Resources";
+import Resources from "./pages/Resources";
 import { Routes, Route } from "react-router-dom";
-import Members from "./components/Members";
+import Members from "../src/pages/Members";
 import Homepage from "./pages/Homepage";
 
 function App() {
