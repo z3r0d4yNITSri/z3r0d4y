@@ -1,4 +1,4 @@
-import React,{useState} from "react";
+import React from "react";
 import logo from "../../Assets/nav_logo.png";
 import "../../Styles/navbar.css";
 import navbarItems from "./NavbarItems";
@@ -7,11 +7,11 @@ import { FaBars } from "react-icons/fa";
 
 
 const Navbar = ({ toggle }) => {
-    
+   
   return (
     <nav>
       <NavLink to="/" className="link" id="logo">
-        <img src={logo} />
+        <img alt="logo" src={logo} />
       </NavLink>
       <div className="menu-items">
         {navbarItems.map((item, index) => (

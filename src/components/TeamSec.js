@@ -11,6 +11,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />
@@ -23,6 +24,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />
@@ -35,6 +37,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />
@@ -47,6 +50,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />
@@ -59,6 +63,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />
@@ -71,6 +76,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />
@@ -83,6 +89,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />
@@ -95,6 +102,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />
@@ -107,6 +115,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />
@@ -119,6 +128,7 @@ function TeamSec() {
           <div class="team-card">
             <div class="img-wrapper">
               <img
+                alt="member"
                 src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/expert1.png"
                 class="team-img"
               />

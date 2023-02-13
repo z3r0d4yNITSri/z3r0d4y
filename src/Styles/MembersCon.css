@@ -1,6 +1,7 @@
 .team_sec {
+    padding: 0;
+    margin: 0;
     text-align: center;
-    padding: 5%;
     font-family: "Roboto", sans-serif;
   }
   .teamsec_heading {
